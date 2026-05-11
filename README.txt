@@ -383,7 +383,6 @@ This project taught me that debugging is part of real data analysis. A blank or 
 
 In the future, I would like to improve this project by:
 
-adding SQL analysis
 comparing forecasting models such as ARIMA or Prophet
 adding confidence intervals to the forecast
 including hospital-level or regional breakdowns
