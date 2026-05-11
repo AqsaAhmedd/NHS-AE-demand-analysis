@@ -18,6 +18,26 @@ This project demonstrates a full healthcare data analytics workflow: from messy 
 
 ---
 
+---
+
+## Dataset Source
+
+The dataset used in this project was obtained from publicly available NHS A&E attendance statistics published by NHS Digital / NHS England.
+
+The data relates to monthly Accident & Emergency attendances and was used for educational and portfolio purposes to practise healthcare data analysis, time-series analysis, and dashboarding.
+
+Source: NHS A&E Attendances and Emergency Admissions statistics.
+
+---
+
+## Data Ethics
+
+This project uses publicly available, aggregated NHS A&E statistics.
+
+No patient-level data, personal information, or identifiable healthcare records were used in this project. The analysis was carried out for learning and portfolio purposes only.
+
+---
+
 ## Tools Used
 
 - Python
@@ -80,6 +100,9 @@ identify sudden increases or drops
 compare month-over-month and year-over-year growth
 review a simple 12-month forecast
 support planning discussions
+
+
+
 
 Methodology
 1. Loading the Data
