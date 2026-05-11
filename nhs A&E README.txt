@@ -70,7 +70,6 @@ No patient-level data, personal information, or identifiable healthcare records 
 
 ## Analytics Workflow
 
-```text
 Raw NHS Excel File
         ↓
 Data Inspection
@@ -86,9 +85,9 @@ Forecasting
 Tableau Dashboard
         ↓
 Insights and Reflection
+```
 
-
-Use Case
+## Use Case
 
 The intended user of this project could be an NHS analyst, healthcare manager, public health officer, or decision-maker.
 
@@ -104,7 +103,7 @@ support planning discussions
 
 
 
-Methodology
+## Methodology
 1. Loading the Data
 What I did
 
@@ -297,7 +296,7 @@ What I learned
 I learned that forecasting can be broken down into smaller steps: find the last date, create future dates, estimate values, and plot the result.
 
 
-Research and Learning Process
+## Research and Learning Process
 
 During this project, I researched and revised several concepts while building the analysis.
 
@@ -316,7 +315,7 @@ I did not understand every part immediately. For example, the forecasting date c
 
 This helped me learn the project properly.
 
-Difficulties Faced
+## Difficulties Faced
 Messy Excel Structure
 
 The original NHS Excel file was difficult to work with because it included title rows, summary rows, blank rows, and unclear headers.
@@ -354,7 +353,7 @@ forecast values
 
 After that, the logic became much easier to understand.
 
-Key Insights
+## Key Insights
 A&E attendances show clear changes over the period analysed.
 The 6-month rolling average makes the underlying trend easier to interpret.
 A visible disruption appears around 2020, likely linked to the COVID-19 pandemic.
@@ -362,7 +361,8 @@ Month-over-month growth highlights short-term spikes and drops.
 Year-over-year growth gives a stronger comparison by comparing the same month across different years.
 A simple 12-month forecast can support early planning discussions.
 The project shows how messy healthcare data can be transformed into useful operational insight.
-Reflection
+
+## Reflection
 
 This project helped me understand that data analysis is not just about writing code or creating charts.
 
@@ -379,7 +379,7 @@ I made mistakes during the project, especially with selecting the wrong rows and
 
 This project taught me that debugging is part of real data analysis. A blank or incorrect chart is not failure. It is a signal to inspect the data again and find the issue.
 
-Future Improvements
+## Future Improvements
 
 In the future, I would like to improve this project by:
 
