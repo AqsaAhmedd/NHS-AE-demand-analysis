@@ -99,8 +99,6 @@ identify sudden increases or drops
 compare month-over-month and year-over-year growth
 review a simple 12-month forecast
 support planning discussions
-## Use Case Diagram
-![Use Case Diagram](use_case_diagram.png)
 
 
 ## Methodology
